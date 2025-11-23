@@ -25,6 +25,8 @@ Please refer to our [documentation](https://lightwheelai.github.io/leisaac/) to 
 ### OMX Robot Teleoperation 🦾
 
 We provide support for the OMX robot with keyboard teleoperation.
+**Example:**
+![alt text](keyboard_teleop.webm)
 
 **Assets:**
 ![alt text](image.png)
